@@ -1,6 +1,6 @@
 # Web Scrapers
 
-This is the code from my [web scraping guide on youtube](https://youtu.be/XMu46BRPLqA). It includes two scrapers. One with Node.js and Puppeteer and one with Python and Beautiful Soup.
+This is the code from my web scraping guide on youtube. It includes two scrapers. One with Node.js and Puppeteer and one with Python and Beautiful Soup.
 
 We scrape the website https://books.toscrape.com/ but you can change the code to scrape something else.
 
